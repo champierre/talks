@@ -46,6 +46,8 @@ https://sites.google.com/view/tukumanalab/
 
 # 3Dプリンタ
 
+https://youtube.com/shorts/YrbXPIzkOOw?si=G7biHPYxkKttivcn
+
 <div class="flex justify-center">
 　<img src="/IMG_3323.jpg" style="width: 50%;height:50%">
 　<img src="/IMG_3586.jpg" style="width: 50%;height:50%">
